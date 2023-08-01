@@ -1,4 +1,4 @@
-public class Hello_world2 {
+public class Exercicio02 {
 	// Método principal
 	// Caracteres especiais
 	// \" aspas duplas ex: "asb\"teste\"dasd"
@@ -6,6 +6,6 @@ public class Hello_world2 {
 		System.out.println("Olá, bem vindo ao inferno!");
 		System.out.print("Batata assada v3");
 		System.out.println("asb\"teste\"dasd");
-		System.out.printf("%d",numero_inteiro); // Especificador de formato da string e variável
+		System.out.printf("%d",10); // Especificador de formato da string e variável
 	}
 }

@@ -8,7 +8,7 @@
 // APENAS AS CLASSES COMEÇAM COM MAIUSCULA
 // TODAS AS INSTRUÇÕES TEM QUE TERMINAR COM PONTO E VIRGULA ;
 
-public class Hello_world {
+public class Exercicio01 {
 	// Método principal 
 	public static void main(String[] args){
 		System.out.println("Batata Assada v3");
